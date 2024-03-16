@@ -7,7 +7,7 @@
  Build:  6984
 
  Open Lab s.r.l., Florence - Italy
- email:  matteo@open-lab.com
+ eE-mail:  matteo@open-lab.com
  blog: 	http://pupunzi.open-lab.com
  site: 	http://pupunzi.com
  http://open-lab.com
@@ -2285,7 +2285,7 @@ var getYTPVideoID = function (url) {
  *
  *  Copyright (c) 2001-2014. Matteo Bicocchi (Pupunzi);
  *  Open lab srl, Firenze - Italy
- *  email: matteo@open-lab.com
+ *  eE-mail: matteo@open-lab.com
  *  site: 	http://pupunzi.com
  *  blog:	http://pupunzi.open-lab.com
  * 	http://open-lab.com
@@ -2321,7 +2321,7 @@ jQuery.fn.css3=function(d){return this.each(function(){var a=jQuery(this),b=jQue
  _                                                                                                                                                  _
  _ Open Lab s.r.l., Florence - Italy                                                                                                                _
  _                                                                                                                                                  _
- _ email: matteo@open-lab.com                                                                                                                       _
+ _ eE-mail: matteo@open-lab.com                                                                                                                       _
  _ site: http://pupunzi.com                                                                                                                         _
  _       http://open-lab.com                                                                                                                        _
  _ blog: http://pupunzi.open-lab.com                                                                                                                _
@@ -2355,7 +2355,7 @@ jQuery.browser.versionCompare=function(a,e){if("stringstring"!=typeof a+typeof e
  _                                                                                                                                                  _
  _ Open Lab s.r.l., Florence - Italy                                                                                                                _
  _                                                                                                                                                  _
- _ email: matteo@open-lab.com                                                                                                                       _
+ _ eE-mail: matteo@open-lab.com                                                                                                                       _
  _ site: http://pupunzi.com                                                                                                                         _
  _       http://open-lab.com                                                                                                                        _
  _ blog: http://pupunzi.open-lab.com                                                                                                                _
@@ -2396,7 +2396,7 @@ jQuery.browser.versionCompare=function(a,e){if("stringstring"!=typeof a+typeof e
  _                                                                                                                                                  _
  _ Open Lab s.r.l., Florence - Italy                                                                                                                _
  _                                                                                                                                                  _
- _ email: matteo@open-lab.com                                                                                                                       _
+ _ eE-mail: matteo@open-lab.com                                                                                                                       _
  _ site: http://pupunzi.com                                                                                                                         _
  _       http://open-lab.com                                                                                                                        _
  _ blog: http://pupunzi.open-lab.com                                                                                                                _

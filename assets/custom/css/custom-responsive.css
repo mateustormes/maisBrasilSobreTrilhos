@@ -60,7 +60,7 @@
 .store-card-text {
     font-size: 12px;
 }
-.about-block-heading {
+.Sobre nossa Empresa-block-heading {
     font-size: 15px;
 }
 .fables-testimonial-carousel-item {
@@ -81,7 +81,7 @@
     text-align: center;
     margin-bottom: 25px;
 }
-.fables-about-icons {
+.fables-Sobre nossa Empresa-icons {
     margin-top: 20px;
 }
 .px-6 {
@@ -429,10 +429,10 @@
 .fables-testimonial .owl-carousel .owl-stage-outer {
     padding: 68px 0 5px;
 }
-.fables-about-top-head:before { 
+.fables-Sobre nossa Empresa-top-head:before { 
     left: 50px; 
 }
-.fables-about-top-head:after { 
+.fables-Sobre nossa Empresa-top-head:after { 
     right: 50px; 
 }
 .index-traingle {
@@ -817,7 +817,7 @@
 #sync1.owl-theme { 
     margin-bottom: 20px;
 }
-.fables-about-caption {
+.fables-Sobre nossa Empresa-caption {
     padding: 25px 0 25px;
 }
 .fables-vision-section {
@@ -827,10 +827,10 @@
 .fables-section-head { 
     margin: 25px 0; 
 }
-.fables-about-icon-block { 
+.fables-Sobre nossa Empresa-icon-block { 
     margin-bottom: 15px;
 }
-.fables-about-icons {
+.fables-Sobre nossa Empresa-icons {
     margin-top: 30px;
 }
 .fables-team-border .fables-team-social-icon { 

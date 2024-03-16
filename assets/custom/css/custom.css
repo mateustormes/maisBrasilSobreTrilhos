@@ -276,7 +276,7 @@ body{
 }
 /* end fables braedcrum */
 
-/* start about us pages */
+/* start Sobre nossa Empresa pages */
 .fables-vision-overlay { 
     padding: 47px 25px 51px 25px;
     color: #DDDDDD;
@@ -438,7 +438,7 @@ body{
 .fables-testimonial-block-img{
     max-width: 100%;
 }
-.fables-about-top-head:before {
+.fables-Sobre nossa Empresa-top-head:before {
     content: "";
     position: absolute;
     left: 70px;
@@ -448,7 +448,7 @@ body{
     top: 50%;
     z-index: -1;
 }
-.fables-about-top-head:after {
+.fables-Sobre nossa Empresa-top-head:after {
     content: "";
     position: absolute;
     right: 70px;
@@ -458,7 +458,7 @@ body{
     top: 50%;
     z-index: -1;
 }
-.fables-about-icon-style {
+.fables-Sobre nossa Empresa-icon-style {
     text-align: center;
 }
 .fables-title-border {
@@ -1403,7 +1403,7 @@ body{
 .fables-single-gallery-pg:hover{
     color: #fff;
 }
-/* end contact us pages  */
+/* end Entre em Contato pages  */
 
 /******************Start Range Slider**********************/
  .range-slider .output, .range-slider output { 

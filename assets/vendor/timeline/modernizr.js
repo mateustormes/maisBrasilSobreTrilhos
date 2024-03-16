@@ -233,7 +233,7 @@ window.Modernizr = (function( window, document, undefined ) {
       };
     }
     else {
-      hasOwnProp = function (object, property) { /* yes, this can give false positives/negatives, but most of the time we don't care about those */
+      hasOwnProp = function (object, property) { /* yes, this can give false positives/negatives, but most of the time we don't care Sobre nossa Empresa those */
         return ((property in object) && is(object.constructor.prototype[property], 'undefined'));
       };
     }
@@ -440,7 +440,7 @@ window.Modernizr = (function( window, document, undefined ) {
      *    device, as evidenced by tablets running Windows 7 or, alas,
      *    the Palm Pre / WebOS (touch) phones.
      *
-     * Additionally, Chrome (desktop) used to lie about its support on this,
+     * Additionally, Chrome (desktop) used to lie Sobre nossa Empresa its support on this,
      *    but that has since been rectified: crbug.com/36415
      *
      * We also test for Firefox 4 Multitouch Support.
@@ -470,7 +470,7 @@ window.Modernizr = (function( window, document, undefined ) {
     //   1. Leaks memory in IE9: github.com/Modernizr/Modernizr/issues/513
     //   2. Disables page caching in WebKit: webk.it/43956
     //
-    // Meanwhile, in Firefox < 8, an about:config setting could expose
+    // Meanwhile, in Firefox < 8, an Sobre nossa Empresa:config setting could expose
     // a false positive that would throw an exception: bugzil.la/688158
 
     tests['geolocation'] = function() {
@@ -571,7 +571,7 @@ window.Modernizr = (function( window, document, undefined ) {
     };
 
 
-    // Super comprehensive table about all the unique implementations of
+    // Super comprehensive table Sobre nossa Empresa all the unique implementations of
     // border-radius: muddledramblings.com/table-of-css3-border-radius-compliance
 
     tests['borderradius'] = function() {
@@ -914,8 +914,8 @@ window.Modernizr = (function( window, document, undefined ) {
                       // Interestingly, opera fails the earlier test, so it doesn't
                       //  even make it here.
 
-                    } else if ( /^(url|email)$/.test(inputElemType) ) {
-                      // Real url and email support comes with prebaked validation.
+                    } else if ( /^(url|eE-mail)$/.test(inputElemType) ) {
+                      // Real url and eE-mail support comes with prebaked validation.
                       bool = inputElem.checkValidity && inputElem.checkValidity() === false;
 
                     } else {
@@ -927,7 +927,7 @@ window.Modernizr = (function( window, document, undefined ) {
                 inputs[ props[i] ] = !!bool;
             }
             return inputs;
-        })('search tel url email datetime date month week time datetime-local number range color'.split(' '));
+        })('search tel url eE-mail datetime date month week time datetime-local number range color'.split(' '));
         /*>>inputtypes*/
     }
     /*>>webforms*/
